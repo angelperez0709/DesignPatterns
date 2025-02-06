@@ -1,4 +1,4 @@
-# 🚀 Design Patterns in Java
+# 🛠️ Design Patterns in Java
 
 ## 📌 About This Repository
 This repository contains implementations of various **Design Patterns** in Java, categorized into **Creational, Structural, and Behavioral** patterns. Each pattern includes code examples, UML diagrams (if applicable), and explanations to help developers understand when and how to use them effectively.
@@ -84,6 +84,6 @@ To clone this repository and start exploring the design patterns, run:
 Feel free to contribute by submitting pull requests or opening issues! 😊
 
 ## 🏆 Author
-**Isabel Palacios** – Learning Software Engineering 🚀
+**Ángel Pérez** – Software Developer 👨‍💻
 
 🔗 Connect with me: [GitHub](https://github.com/tu_usuario) | [LinkedIn](https://www.linkedin.com/in/tu_perfil)
