@@ -86,4 +86,4 @@ Feel free to contribute by submitting pull requests or opening issues! 😊
 ## 🏆 Author
 **Ángel Pérez** – Software Developer 👨‍💻
 
-🔗 Connect with me: [GitHub](https://github.com/tu_usuario) | [LinkedIn](https://www.linkedin.com/in/tu_perfil)
+🔗 Connect with me: [GitHub](https://github.com/angelperez0709) | [LinkedIn](https://www.linkedin.com/in/angelperezmartinez)
