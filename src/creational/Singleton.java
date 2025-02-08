@@ -1,4 +1,4 @@
-package Creational;
+package creational;
 
 public class Singleton {
     // The volatile keyword prevents caching and ensures the CPU retrieves the value directly from main memory.

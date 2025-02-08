@@ -1,4 +1,4 @@
-package Creational;
+package creational;
 
 interface Notification {
     void sendMessage(String text);

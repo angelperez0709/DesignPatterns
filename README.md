@@ -1,14 +1,14 @@
 # 🛠️ Design Patterns in Java
 
 ## 📌 About This Repository
-This repository contains implementations of various **Design Patterns** in Java, categorized into **Creational, Structural, and Behavioral** patterns. Each pattern includes code examples, UML diagrams (if applicable), and explanations to help developers understand when and how to use them effectively.
+This repository contains implementations of various **Design Patterns** in Java, categorized into **creational, Structural, and Behavioral** patterns. Each pattern includes code examples, UML diagrams (if applicable), and explanations to help developers understand when and how to use them effectively.
 
 ## 📂 Repository Structure
 ```
 DesignPatterns-Java/
 │── README.md
 │── src/
-│   ├── Creational/
+│   ├── creational/
 │   │   ├── Singleton.java
 │   │   ├── Factory.java
 │   │   ├── Builder.java
@@ -35,7 +35,7 @@ DesignPatterns-Java/
 ## 📖 What Are Design Patterns?
 Design patterns are reusable solutions to common problems in software design. They help make code more maintainable, scalable, and efficient. The three main categories are:
 
-1. **Creational Patterns**: Focus on object creation mechanisms.
+1. **creational Patterns**: Focus on object creation mechanisms.
    - Singleton
    - Factory Method
    - Abstract Factory
